@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "crowBowRebalance",
+    "name": "Bow Power Up",
+    "authors": [ "Crow" ],
+    "maintainers": [ "-/-" ],
+    "description": "A quick rebalancing mod to allow bows to be a little more powerful.",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
