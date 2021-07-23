@@ -20,7 +20,7 @@
   "ammo_type": "bolt",
   "damage": {
     "damage_type": "stab",
-    "constant_damage_multiplier": 1.13
+    "constant_damage_multiplier": 1
   },
   "dispersion": 250,
   "loudness": 0,
@@ -51,8 +51,8 @@
   "ammo_type": "bolt",
   "damage": {
     "damage_type": "stab",
-    "constant_damage_multiplier": 1.13,
-    "armor_penetration": 3
+    "constant_damage_multiplier": 1,
+    "armor_penetration": 2
   },
   "dispersion": 180,
   "loudness": 0,
@@ -83,7 +83,7 @@
   "ammo_type": "bolt",
   "damage": {
     "damage_type": "stab",
-    "constant_damage_multiplier": 0.75
+    "constant_damage_multiplier": 0.67
   },
   "dispersion": 210,
   "loudness": 0,
@@ -115,8 +115,8 @@
   "ammo_type": "bolt",
   "damage": {
     "damage_type": "stab",
-    "constant_damage_multiplier": 1.88,
-    "armor_penetration": 6
+    "constant_damage_multiplier": 1.66,
+    "armor_penetration": 4
   },
   "dispersion": 180,
   "loudness": 0,
@@ -149,8 +149,8 @@
   "ammo_type": "bolt",
   "damage": {
     "damage_type": "stab",
-    "constant_damage_multiplier": 2.25,
-    "armor_penetration": 9
+    "constant_damage_multiplier": 2,
+    "armor_penetration": 6
   },
   "dispersion": 110,
   "loudness": 0,
@@ -182,8 +182,8 @@
   "ammo_type": "bolt",
   "damage": {
     "damage_type": "stab",
-    "constant_damage_multiplier": 1.5,
-    "armor_penetration": 15
+    "constant_damage_multiplier": 1.33,
+    "armor_penetration": 10
   },
   "dispersion": 100,
   "loudness": 0,
@@ -215,7 +215,7 @@
   "ammo_type": "bolt",
   "damage": {
     "damage_type": "stab",
-    "constant_damage_multiplier": 0.75
+    "constant_damage_multiplier": 0.67
   },
   "dispersion": 130,
   "loudness": 0,
@@ -246,8 +246,8 @@
   "ammo_type": "bolt",
   "damage": {
     "damage_type": "stab",
-    "constant_damage_multiplier": 1.88,
-    "armor_penetration": 3
+    "constant_damage_multiplier": 1.66,
+    "armor_penetration": 2
   },
   "dispersion": 100,
   "loudness": 0,
@@ -280,8 +280,8 @@
   "ammo_type": "bolt",
   "damage": {
     "damage_type": "stab",
-    "constant_damage_multiplier": 2.25,
-    "armor_penetration": 9
+    "constant_damage_multiplier": 2,
+    "armor_penetration": 6
   },
   "range": 2,
   "dispersion": 70,
@@ -315,8 +315,8 @@
   "ammo_type": "bolt",
   "damage": {
     "damage_type": "stab",
-    "constant_damage_multiplier":1.5,
-    "armor_penetration": 15
+    "constant_damage_multiplier":1.33,
+    "armor_penetration": 10
   },
   "range": 2,
   "dispersion": 65,
@@ -350,7 +350,7 @@
   "ammo_type": "bolt",
   "damage": {
     "damage_type": "stab",
-    "constant_damage_multiplier": 0.75
+    "constant_damage_multiplier": 0.67
   },
   "range": 2,
   "dispersion": 70,
@@ -385,8 +385,8 @@
   "ammo_type": "bolt",
   "damage": {
     "damage_type": "stab",
-    "constant_damage_multiplier": 2.63,
-    "armor_penetration": 6
+    "constant_damage_multiplier": 2.33,
+    "armor_penetration": 4
   },
   "range": 4,
   "dispersion": 60,
